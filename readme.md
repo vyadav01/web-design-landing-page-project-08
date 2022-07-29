@@ -11,7 +11,7 @@ In this project, I have learned about **CSS position property and linear gradien
 
 ### **Time spent to finish it.**
 
-It took me 7-8 hours to complete this project.
+It took me 3-4 hours to complete this project.
 
 **Note :** This project is not optimized for mobile yet.
 
