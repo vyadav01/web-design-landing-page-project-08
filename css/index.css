@@ -1,0 +1,142 @@
+
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.main-div nav,
+.nav-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px 0px;
+}
+
+.main-div nav .nav-items {
+  justify-content: center;
+  padding: 0px 10px;
+}
+
+.main-div nav .nav-items .nav-item {
+  margin: 0px 18px;
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  color: #262e73;
+  transition: color 0.2s;
+}
+
+.main-div nav .nav-items .nav-item:hover {
+  color: #7d7fa1;
+}
+
+.main-div nav img {
+  width: 100px;
+}
+
+.main-div nav .signin-btn {
+  background: linear-gradient(
+    90deg,
+    rgba(74, 130, 201, 1) 17%,
+    rgba(115, 235, 187, 0.9532855378479517) 100%
+  );
+  padding: 3px 15px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+
+.main-div nav .signin-btn:hover{
+  background: linear-gradient(
+    90deg,
+    rgba(115, 235, 187, 0.9532855378479517) 17%, rgba(74, 130, 201, 1) 100%
+  );
+}
+
+.intro-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 50px 0px 0px 60px;
+}
+
+.intro-section .left-section{
+margin-top: 80px;
+}
+
+.intro-section .left-section h1 {
+  font-size: 60px;
+  margin: 30px 10px;
+  color: #3e4794;
+  font-family: "Roboto", sans-serif;
+  font-weight: bolder;
+}
+
+.intro-section .left-section h4 {
+  font-size: 14px;
+  line-height: 25px;
+  max-width: 40ch;
+  margin: 40px 10px;
+  color: #757ded;
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+}
+
+.intro-section .left-section .learn-more-btn {
+  background: linear-gradient(
+    90deg,
+    rgba(74, 130, 201, 1) 17%,
+    rgba(115, 235, 187, 0.9532855378479517) 100%
+  );
+  padding: 8px 20px;
+  border-radius: 20px;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+  border: none;
+  margin: 20px 5px;
+}
+
+.intro-section .left-section .learn-more-btn:hover{
+  background: linear-gradient(
+    90deg,
+    #73ebbbf3 17%, #4a82c9 100%
+  );
+}
+
+.intro-section .imgs-div {
+  margin-right: 20px;
+}
+
+.intro-section .imgs-div img:last-child {
+  width: 720px;
+}
+
+.intro-section .imgs-div .vector-img {
+  position: absolute;
+  top: 100%;
+  left: 40%;
+  width: 85px;
+}
+
+.intro-section .imgs-div .vector-dot{
+    position: absolute;
+    top: 100%;
+    left: 44%;
+    width: 15px;
+}
+
+.intro-section .imgs-div .backcover-img{
+    position: absolute;
+    top: 0%;
+    left: 36%;
+    width: 808px;
+    z-index: -1;
+  }
+  
+  
