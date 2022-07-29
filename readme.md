@@ -16,11 +16,11 @@ It took me 7-8 hours to complete this project.
 **Note :** This project is not optimized for mobile yet.
 
 
-**[Live Project's netlify link](https://product-homepage-project-07.netlify.app/ "Project link")**
+**[Live Project's netlify link](https://web-design-landing-page-project-08.netlify.app/ "Project link")**
 
 
 
-[![Project ScreenShot](./css%20project_08%20done.png)](https://product-homepage-project-07.netlify.app/ "Project link")
+[![Project ScreenShot](./css%20project_08%20done.png)](https://web-design-landing-page-project-08.netlify.app/ "Project link")
 
 
-[![Badge](https://img.shields.io/badge/Project__08-web%20design%20landing%20page-yellow)](https://product-homepage-project-07.netlify.app/ "Project link")
+[![Badge](https://img.shields.io/badge/Project__08-web%20design%20landing%20page-yellow)](https://web-design-landing-page-project-08.netlify.app/ "Project link")
